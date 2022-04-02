@@ -2,6 +2,10 @@ E0 Browser [ALPHA]
 Licenza pubblica generale GNU v3.0
 (c) Tutti i diritti sono riservati.
 
+BROWSER ANONIMO
+
+[Potrebbero verificarsi errori, dato che per far rimanere il browser anonimo occorre una versione di windows del programma vecchia]
+
 Problemi:
 
 1 - Potrebbe verificarsi un errore negli script durante una navigazione. 
